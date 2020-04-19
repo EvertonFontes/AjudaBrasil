@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AjudaBrasil</string>
+    <string name="tv_pet">PET</string>
+    <string name="tv_ementa">Ementa para teste da api do governo</string>
+    <string name="tv_ano">Ano:</string>
+    <string name="tv_ano_api">2020</string>
+    <string name="bt_ver_mais">Ver Mais</string>
+</resources>
